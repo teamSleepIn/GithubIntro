@@ -29,5 +29,12 @@ Team member 3
 
 Team member 4
 
+Name: Olga Bronshteyn
+Per 1: AP Spanish, Rm R
+Per 2: AP Lit, Rm 111
+Per 3: AP Calc 1/2, Rm B-6
+Per 4: Honors US, Rm 116
+Per 5: Honors Chem, Rm S-4
+Per 6: AP Comp Sci, Rm B-13
 
 
